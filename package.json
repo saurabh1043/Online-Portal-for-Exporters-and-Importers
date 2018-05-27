@@ -1,0 +1,24 @@
+{
+  "name": "online-portal-for-exporters-importers",
+  "version": "1.0.0",
+  "description": "capstone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishiChandra/online-portal-for-exporters-importers.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Nishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishiChandra/online-portal-for-exporters-importers/issues"
+  },
+  "homepage": "https://github.com/NishiChandra/online-portal-for-exporters-importers#readme"
+}
